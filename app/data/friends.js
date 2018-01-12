@@ -1,7 +1,7 @@
 var friendsArray = [
     {
-        "name": "Danny",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Cortana",
+        "photo": "https://images.techhive.com/images/article/2014/04/hi-cortana-100263863-large.jpg",
         "scores": [
             5,
             3,
@@ -16,8 +16,8 @@ var friendsArray = [
         ]
     },
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Alexa",
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SY300_QL70_.jpg",
         "scores": [
             5,
             1,
